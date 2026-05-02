@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="staff" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <option name="MAIN_CLASS_NAME" value="sun.jvm.hotspot.HelloWorld" />
+    <module name="staff" />
+    <selectedOptions>
+      <option name="environmentVariables" visible="false" />
+    </selectedOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
